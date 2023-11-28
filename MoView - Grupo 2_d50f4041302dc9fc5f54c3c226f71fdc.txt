@@ -1,0 +1,12 @@
+Nome da aplicação: MoView
+Grupo 2
+-------------------------------------------------
+MoView é uma plataforma para amantes de cinema e que integra-se à API do IMDB. Ela reúne recursos que tornam mais fácil a gestão da sua coleção de filmes e a exploração do cinema.
+
+Você pode criar seu usuário com informações básicas, como seu nome, e-mail, senha e foto e explorar filmes. Com uma lista abrangente de filmes, você pode encontrar informações detalhadas sobre qualquer título que lhe interesse. Isso inclui sinopse, elenco, diretor, data de lançamento etc.
+
+O MoView permite que você registre os filmes que já assistiu, adicione a data de visualização e atribua uma avaliação de 0 a 5 estrelas, além de adicionar comentários para lembrar suas impressões sobre cada filme.
+
+Você pode adicionar qualquer filme à sua Watchlist para não esquecer os filmes que você deseja assistir futuramente.
+
+Você pode criar listas personalizadas de filmes e também pode adicionar tags, permitindo que você os categorize por temas, emoções ou qualquer categoria.

@@ -1,0 +1,26 @@
+﻿Cadastro:
+- Informações do Usuário: O usuário pode criar uma conta no sistema, fornecendo informações pessoais, como nome, e-mail e senha.
+
+
+Login:
+- Usuário Padrão:
+  - Nome/E-mail: O usuário deve fornecer seu nome de usuário ou e-mail.
+  - Senha: O usuário deve inserir sua senha para acessar sua conta.
+- Autenticação: Após a inserção das credenciais de login, o sistema verifica a autenticidade do usuário.
+  - Status: O sistema verifica se o usuário está ativo e autorizado a acessar o sistema.
+
+
+Buscar Filme:
+- Nome do Filme: Os usuários podem pesquisar filmes pelo nome. O sistema irá então listar os filmes correspondentes à pesquisa.
+
+
+Avaliação do Filme:
+- Nota: Os usuários podem dar uma nota de 0 a 5 estrelas ao filme.
+- Review: Os usuários podem escrever uma revisão ou comentário sobre o filme.
+
+
+Gerenciar Listas:
+- Salvar em Listas: Os usuários podem salvar filmes em listas, como "Assistir Mais Tarde", "Favoritos" e outras personalizadas.
+- Criar: Os usuários podem criar listas personalizadas para organizar filmes de acordo com suas preferências.
+- Apagar: Os usuários têm a opção de excluir listas que não são mais necessárias.
+- Editar: Os usuários podem editar o nome e o conteúdo das listas.
